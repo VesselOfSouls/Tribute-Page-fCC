@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="eng">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="title">Fruits Basket Tribute Page Project</title>
+    <link href="styles.css" rel="stylesheet" >
+  <main id="main">
+    <head>
+      <div class="header"></div>
+      <h1>Fruits Basket</h1>
+      <p>An anime with an interesting backstory.</p>
+      <div class="color"></div>
+    <body>
+      <div id="img-div">
+      <img class="image-main" id="image" src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/04/2001-Fruits-Basket-and-2019-Fruits-Basket.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5" alt="Fruits basket anime cover from 2001(left) and from 2019(right)">
+       <!--<p id="image" class="img-caption">--><figcaption id="img-caption">Left, from bottom: Tohru, Kyo, Yuki, Shigure standing together in a group. Right, from bottom: Tohru, Yuki, Kyo, Shigure, Uo, and Hanajima standing apart, facing the camera.</figcaption><!--</p>-->
+        <div class="divider"></div>
+       <p id="quip">Fruits Basket has changed a lot in 18 years.</p>
+      </div>
+      <div class="content" id="tribute-info">
+        <h2>A Quick Look</h2>
+        <div class="bordertext">
+        <p class="text">Fruits Basket is an anime created by Natsuki Takaya, who has also created <em>Tsubasa: Those with Wings</em> and <em>Twinkle Stars</em>, among others. The anime follows a high-school student, Tohru Honda, in her discovery of the Sohma family; a family cursed by the Zodiac. When a member who is cursed is hugged by a member of the opposite sex, they turn into their corresponding zodiac animal: rabbit, mouse, dog, etc. This secret is a well-kept one, as demanded by the head of the family, Akito Sohma. He is the 'god', a current representation of the legendary figure who cursed the Sohma family originally.
+        </div>
+        </p>
+        <h3>The Drastic Remake</h3>
+        <div class="bordertext">
+          <p class="pseudoheading">Part 1:</p>
+          <p class="underheading">Tohru's appearance and personality</p>
+          
+            <section id="part_1">
+          <p class="text">In the original adaptation, Tohru's eyes were blue. This was a decision made by the publishing company, and was not true to the character Natsuki had written. Additionally, Tohru's personality was edited to be more ditzy, scared, and frail than she was meant to be. Both of these changes can be well and easily noted in the remake, as her eyes are brown and her personality is much more steadfast.</p>
+          </section>
+          <section id="part_2">
+          <p class="pseudoheading">Part 2:</p>
+          <p class="underheading">Humor</p>
+          <p class="text">The original adaptation of the anime was much 'lighter' and more humorous. It didn't take itself seriously, which was strange for the life-altering, heavy topics that are included in the anime. The weight of everything is much more evident in the remake, which still has plenty of humor; but the places it's used at aren't so much the focal point, more of the relief. While the original is good if you don't want the real, painful story Fruits Basket has, to really see what Natsuki Takaya was trying to convey, the remake is the one to watch.</p>
+          </section>
+          <section id="part_3">
+          <p class="pseudoheading">Part 3:</p>
+          <p class="underheading">The artstyle</p>
+          <p class="text">Perhaps the most obvious and clear difference is the art style. It can be seen that the artist has clearly updated her art style with the times, and it reflects a very clean, new-age anime look. The coloring is more dynamic as well as the characters more proportionate. The original has its charms, especially with those who watched late-90's or early 2000's anime, but the new one certainly overshadows it.</p>
+          </section>
+          <section id="part_4">
+          <p class="pseudoheading">Part 4:</p>
+          <p class="underheading">Characters and storyline</p>
+          <p class="text">Another very obvious change from the original was the inclusion of Isuzu and Kureno, the Horse and Rooster (respectively). In the original, due to creative differences and other factors, not only was the main storyline altered to Natsuki Takaya's distaste; but two characters and their storylines are omitted entirely. Their involvment within the Sohma clan was integral, with one of the character's storylines and development, who even appears in the original (Hatsuharu, the Ox), being altered so much so that the character becomes flat. With the  inclusion of Isuzu, we get to see how their relationship (and Isuzu's attitude) affects her, Hatsuharu, and the story itself.</p>
+          </div>
+          </section>
+        <h4>Conclusion</h4>
+        <div class="bordertext">
+          <p class="end text"> It's safe to say that the anime has changed A LOT over the 18 years it's matured in. The artist being able to have more full control over her own story and characters brings a much more rounded anime, something more exciting to get into than its younger self. The storylines, arcs, art, and seriousness of it brings it to life in a way that anyone could appreciate, and that the artist is much happier to show the world.</p>
+          </div>
+      </div>
+    </body>
+    <footer>
+    <p>For more information about the show and the artist, visit this <a id="tribute-link" target="_blank" href="https://fruitsbasket.fandom.com/wiki/Main_Page">link!</a></p>
+  </footer>
+  </main>
+  
+  
+</html>
